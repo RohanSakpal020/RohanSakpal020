@@ -1,7 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm an aspiring software developer eager to dive into the exciting world of coding and innovation. Through my portfolio, I aim to showcase my journey of growth and learning in the field. But I'm here to learn from you too! Are you a fellow enthusiast just starting out, or perhaps seeking insights into specific programming languages or projects? Your input will shape our conversation, so please, let me know how I can assist you best on this exciting journey! I am pursuing Master's of Computer Application ( MCA ) from Dr. D. Y. Patil Institute of Master's of Computer Application and Management, Akurdi. Recently, I completed Bachelor Degree in Computer Applications (BBA(CA)) from Savitribai Phule Pune University.
+A student, committed to continuous learning and staying updated on emerging technologies to drive 
+innovation and optimize infrastructure. Ready to contribute to your organization's success by delivering 
+impactful solutions! I am pursuing Master's of Computer Application ( MCA ) from Dr. D. Y. Patil Institute of Master's of Computer Application and Management, Akurdi. Recently, I completed Bachelor Degree in Computer Applications (BBA(CA)) from Savitribai Phule Pune University.
 
 
 ## 🌐 Socials:
